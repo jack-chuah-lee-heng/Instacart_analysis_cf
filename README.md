@@ -24,4 +24,4 @@ The Instacart Grocery Basket Dataset can be downloaded here. - [Download Instaca
 
 ## Summary and Recommendations
 
-The summary and recommendations can be found in the GitHuB folder.
+The summary and recommendations can be found in the GitHuB folder. (Instacart_analysis_cf/Instacart Basket Analysis/05 Sent to client/)
