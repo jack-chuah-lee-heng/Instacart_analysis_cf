@@ -11,11 +11,4 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 ## Data Sets
 
-## Summary
-
-## Recommendation
-
-
-## Next Steps
-
-
+The Instacard Grocery Basket Dataset can be downloaded here. - [Download Instacard Grocery Basket Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
